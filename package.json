@@ -1,0 +1,25 @@
+{
+  "name": "users",
+  "version": "0.0.1",
+  "description": "Users microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sov-company/users.git"
+  },
+  "keywords": [
+    "users",
+    "typecript",
+    "dev",
+    "tandil"
+  ],
+  "author": "Matías Oveja Smith <matias.ovejasmith@gmail.com>",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/sov-company/users/issues"
+  },
+  "homepage": "https://github.com/sov-company/users#readme"
+}
